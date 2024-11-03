@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Tất cả"
+        android:id="@+id/all_pictures"
+        android:icon="@drawable/baseline_image_24"/>
+    <item android:title="Trong ngày"
+        android:id="@+id/pictures_of_today"
+        android:icon="@drawable/baseline_picture_in_picture_24"/>
+    <item android:title="Trong tuần"
+        android:id="@+id/pictures_on_week"
+        android:icon="@drawable/baseline_image_aspect_ratio_24"/>
+</menu>
